@@ -1,0 +1,7 @@
+CtrlShiftShortcuts=yes
+RewrapOnResize=yes
+Term=xterm-256color
+ThemeFile=windows10
+Transparency=off
+BoldAsFont=yes
+BoldAsColour=no
