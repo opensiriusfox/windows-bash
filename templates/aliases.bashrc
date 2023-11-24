@@ -1,1 +1,0 @@
-alias ls="ls -I 'NTUSER.DAT*' --color=auto"
